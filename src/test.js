@@ -1,3 +1,3 @@
 function test(){
-	concole.log("kishan");
+	console.log("kishan");
 }
